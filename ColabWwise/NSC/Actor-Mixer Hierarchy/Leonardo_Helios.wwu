@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C8AC39D8-F24F-4CB3-A84C-B80CDEA78AEC}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="Leonardo_Helios" ID="{C8AC39D8-F24F-4CB3-A84C-B80CDEA78AEC}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="SmallLaugh_End_01" ID="{746FEE58-659B-4C22-9604-294C5B52F368}" ShortID="828745580">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B095AA85-54E9-45B3-A032-C08F48F68334}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{5A514F9B-D2D9-43D9-BD5A-BF0D766AFCEB}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="SmallLaugh_End_01" ID="{4478BACD-F409-44A7-93EE-9404CC056B7F}">
+							<Language>SFX</Language>
+							<AudioFile>SmallLaugh_End_01.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="967295199"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="SmallLaugh_End_01" ID="{4478BACD-F409-44A7-93EE-9404CC056B7F}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
