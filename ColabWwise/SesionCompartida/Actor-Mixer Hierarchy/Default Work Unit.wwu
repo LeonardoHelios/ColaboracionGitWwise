@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{745B62B6-20A1-4BB3-B2D2-1F25249A4877}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{745B62B6-20A1-4BB3-B2D2-1F25249A4877}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="aliM" ID="{88EB0570-FF86-456D-BE9A-C3755C35969F}" ShortID="839243953">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{7316D9B1-0A3E-44D0-8227-384348A87F54}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0B00E689-0DCF-43CB-AFDC-0E0BB475187F}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Cartoon, Misc, Cartoon Character, Voice, High Pitched, Pain, Grunts SND15445 copy" ID="{20F93F7A-C0AC-44D2-A489-73FDCD1F95B3}">
+							<Language>SFX</Language>
+							<AudioFile>Cartoon, Misc, Cartoon Character, Voice, High Pitched, Pain, Grunts SND15445 copy.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="64895902"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Cartoon, Misc, Cartoon Character, Voice, High Pitched, Pain, Grunts SND15445 copy" ID="{20F93F7A-C0AC-44D2-A489-73FDCD1F95B3}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="JonatanM" ID="{AEB7F9D8-9B39-4165-BD31-D9E3B859FCA2}" ShortID="331034087">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{7316D9B1-0A3E-44D0-8227-384348A87F54}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0B00E689-0DCF-43CB-AFDC-0E0BB475187F}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Magic, Spell, Rebuilding, Reversed Debris, Explosion Spell SND35363 1" ID="{E6F1EDEE-F46A-47CC-ADE2-137B2BEA4B21}">
+							<Language>SFX</Language>
+							<AudioFile>Magic, Spell, Rebuilding, Reversed Debris, Explosion Spell SND35363 1.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="539517435"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Magic, Spell, Rebuilding, Reversed Debris, Explosion Spell SND35363 1" ID="{E6F1EDEE-F46A-47CC-ADE2-137B2BEA4B21}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="MejiaCortes" ID="{A60BF035-A05B-44EC-9274-E66FB7BEB9B1}" ShortID="718075884">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{7316D9B1-0A3E-44D0-8227-384348A87F54}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0B00E689-0DCF-43CB-AFDC-0E0BB475187F}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Musical, Misc, Computer, OS Modern, Celestial, Heavenly, Startup, Shutdown 01 SND64162" ID="{D6A8B6D0-EDD3-4579-B7B3-6669AB15A17B}">
+							<Language>SFX</Language>
+							<AudioFile>Musical, Misc, Computer, OS Modern, Celestial, Heavenly, Startup, Shutdown 01 SND64162.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="500686906"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Musical, Misc, Computer, OS Modern, Celestial, Heavenly, Startup, Shutdown 01 SND64162" ID="{D6A8B6D0-EDD3-4579-B7B3-6669AB15A17B}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="LeoHelios" ID="{D6C64EB1-2DA2-4225-9B48-48DC750A77EE}" ShortID="1021241695">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{7316D9B1-0A3E-44D0-8227-384348A87F54}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0B00E689-0DCF-43CB-AFDC-0E0BB475187F}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Death_Hit_03" ID="{57329396-9CD5-419C-A4BB-2CC85270ECB0}">
+							<Language>SFX</Language>
+							<AudioFile>Death_Hit_03.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="526749857"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Death_Hit_03" ID="{57329396-9CD5-419C-A4BB-2CC85270ECB0}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
